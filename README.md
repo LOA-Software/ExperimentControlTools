@@ -8,3 +8,5 @@ Includes libs and tools to read and controle:
 - [Photometrics scientifics camera](https://github.com/LOA-Software/ExperimentControlTools/blob/main/pvCam/README.md)
 - [Basler, Pixelink, The imaging source, Allied technology and IDS cameras](https://github.com/LOA-Software/ExperimentControlTools/blob/main/camera/README.md)
 - [RSAI, NewFocus, SmartAct, Newport, TMCM, pololu, Arduino and APT (Thorlabs) motors](https://github.com/LOA-Software/ExperimentControlTools/blob/main/motors/README.md)
+
+Developed and collected by [julienGautier77](https://github.com/julienGautier77)
