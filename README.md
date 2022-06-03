@@ -1,7 +1,7 @@
 # ExperimentControlTools
 collections of camera and motor control libraries
 
-Includes libs and tools to read and controle:
+Includes libs and tools to read and control:
 - [Andor apogee camera](https://github.com/LOA-Software/ExperimentControlTools/blob/main/andor/README.md)
 - [Andor camera with SDK2](https://github.com/LOA-Software/ExperimentControlTools/blob/main/andorIdus/README.md)
 - [Princeton scientifics camera](https://github.com/LOA-Software/ExperimentControlTools/blob/main/PiCam/README.md)
